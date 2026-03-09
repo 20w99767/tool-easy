@@ -1,11 +1,6 @@
 # tool-easy
+
 My tool-easy project
-
-## Acknowledgements
-
-- Thanks to all contributors who have helped improve this project
-- Inspired by similar open source projects
-- Built with love and coffee ☕
 
 ## Project Overview
 This project aims to provide easy-to-use tools for developers to streamline their workflow.
@@ -29,3 +24,8 @@ To use the tools in this project, follow these steps:
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgements
+- Thanks to all contributors who have helped improve this project
+- Inspired by similar open source projects
+- Built with love and coffee ☕
